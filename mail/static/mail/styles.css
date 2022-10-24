@@ -1,0 +1,49 @@
+textarea {
+    min-height: 400px;
+}
+.email-div{
+    border: 2px solid #66FCF1;
+    padding: 3px;
+    margin: 2px;
+}
+.email-div:hover{
+    border: 1.5px solid #45A29E;
+    padding: 3px;
+    margin: 2px;
+    cursor: pointer;
+}
+.timestamp{
+    float: right;
+}
+.read-emails{
+    color: #1F2833;
+    background-color: gray;
+}
+.unread-emails{
+    color: #1F2833;
+    background-color: white;
+}
+body {
+    color: #66FCF1;
+    background-color: #1A1A1D;
+}
+#head {
+    text-align: center;
+    color: #C5C6C7;
+    background-color: #1F2833;
+}
+.btn {
+    border: 1px solid #66FCF1;
+    color: #66FCF1;
+    padding: 5px;
+    margin: 2px;
+}
+.btn:hover {
+    border: 1px solid #C5C6C7;
+    color: #C5C6C7;
+    padding: 5px;
+    margin: 2px;
+}
+hr {
+    background-color: #C5C6C7;
+}
