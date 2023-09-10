@@ -1,4 +1,4 @@
-# [Mail Web Application](https://www.youtube.com/watch?v=BVSsOe7ye7k&t=28s)
+# [Mail Web Application](https://youtu.be/BVSsOe7ye7k?si=lyCoYqeUVNL4WT5u)
 
 Developed a user-centric mail application utilizing Django for the login interface, with the remainder of the functionality meticulously implemented using JavaScript.
 
